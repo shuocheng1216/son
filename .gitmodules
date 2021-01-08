@@ -1,0 +1,3 @@
+[submodule "granddaughter"]
+	path = granddaughter
+	url = git@github.com:shuocheng1216/granddaughter.git
